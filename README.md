@@ -14,3 +14,5 @@ horizontal line
 - milk
 *italic*
 **bold**
+how to open hyper links [apssdc](https://www.apssdc.in)
+[ciet college](https://www.chalapathi engg.ac.in/)
